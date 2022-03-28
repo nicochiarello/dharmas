@@ -1,3 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Gabriela&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Urbanist:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,300;1,400;1,500;1,600;1,700;1,800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@300;400;500;600&display=swap');
+
+.navbar-green{
+   background: linear-gradient(180deg, rgba(0, 0, 0, 0.25) 0%, rgba(0, 0, 0, 0) 100%), linear-gradient(180deg, #B3D773 0%, rgba(179, 215, 115, 0) 100%);
+}
+
+.index-green{
+    background: linear-gradient(0deg, rgba(0, 0, 0, 0.25), rgba(0, 0, 0, 0.25)), rgba(179, 215, 115, 0.5);
+}
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
